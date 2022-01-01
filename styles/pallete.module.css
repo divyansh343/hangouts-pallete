@@ -1,0 +1,71 @@
+
+/* seprate css files */
+.amb{
+    background-color:#FCDBBA; 
+}
+.ban{
+    background-color:#FEE694; 
+}
+.blu{
+    background-color:#82bfe0;
+}
+.bud{
+    background-color:#94C15C; 
+}
+.but{
+    background-color:#F2C94C;
+}
+.cam{
+    background-color:#AAA843;
+}
+.cap{
+    background-color:#C9B092;
+}
+.cha{
+    background-color:#FCEBD5;
+}
+.ama{
+    background-color:#403B4A;
+}
+
+/* Palette only styles */
+
+.h4{
+    background-color: none;
+	color: rgb(0, 0, 0);
+    font-family: Parkavenue, cursive;
+    font-size: 22px;
+    margin-left: 10px;
+    
+	font-variant: small-caps;
+}
+.ku{
+    border: 5px;
+}
+/* body {
+	background: #ddd;
+} */
+
+.swatches {
+	list-style: none;
+	font: 0.9em calibri, san-serif;
+	color: rgb(0, 0, 0);
+}
+
+.swatches li {
+	border-radius: 2em;
+	display: inline-block;
+	height: 6rem;
+	position: relative;
+	width: 6rem;
+	margin: 2rem 1rem;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.swatches li span {
+	position: relative;
+	top: 6.2rem;
+	display: inline-block;
+	height: 2rem;
+}
